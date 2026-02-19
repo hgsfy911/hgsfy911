@@ -60,6 +60,7 @@ I like to build things that work well and scale fast. My zone is the TS/JS ecosy
 Got an interesting project or just want to say hi? Drop me a line.
 
 * 🐦 Twitter: [@hgsfy911](https://x.com/hgsfy911)
+* 📚 Facebook [@hgsfy911](https://www.facebook.com/profile.php?id=61588206009085)
 
 <p align="center">
   <i>Thanks for visiting!</i> 🚀
